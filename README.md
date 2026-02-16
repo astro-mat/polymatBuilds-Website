@@ -2,9 +2,9 @@
 
 Welcome to the **P O L Y M A T – Builds** repository! This repository hosts the source code and content for the personal project site published at:
 
-👉 [https://builds.polymat.ie/](https://builds.polymat.ie/)
+[https://builds.polymat.ie/](https://builds.polymat.ie/)
 
-## 🌐 About the Site
+## About the Site
 
 **P O L Y M A T – Builds** is a personal website that showcases a curated collection of DIY projects, workshop builds, music equipment creations, and everyday inventions. The site serves as a portfolio and documentation hub for hands‑on builds, offering inspiration and insight into various creative and practical projects.
 
@@ -32,7 +32,7 @@ The tagline of the site is:
 
 > *Furniture, instruments, inventions etc — everyday things that make sense (at least to me).*
 
-## 📦 Repository Structure
+## Repository Structure
 
 The repository mirrors the structure of the site and may include:
 
