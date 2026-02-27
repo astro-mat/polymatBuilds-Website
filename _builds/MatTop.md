@@ -1,7 +1,7 @@
 ---
 layout: build
 title: "Mat-Top: Portable case for Mini PC"
-date: 2026-27-02
+date: 2026-02-27
 image: "assets/images/MatTop/MatTop_5.jpg" 
 description: "A re-configuarable, portable case for Mini Pc with integrated touchscreen and keyboard"
 category: ["Music Equipment", "Carpentry"]
