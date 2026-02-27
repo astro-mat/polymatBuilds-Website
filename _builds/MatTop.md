@@ -2,7 +2,7 @@
 layout: build
 title: "Mat-Top: Portable case for Mini PC"
 date: 2025-02-27
-image: "assets/images/PCBuild/AlternatingTreadStaircase/final.jpg" 
+image: "assets/images/MatTop/MatTop_4.jpg" 
 description: "A re-configuarable, portable case for Mini Pc with integrated touchscreen and keyboard"
 category: ["Music Equipment", "Carpentry"]
 ---
@@ -27,19 +27,18 @@ The resulting case works quite well. It packs up in a secure, portable format.
 
 One annoying part yet to be solved is the USB-C cable. I have so far tried 4 diffent cables. Only one of them works for the video transmision. I needed an angled cable to fit neatly but every one I tried didnt work despite saying that it was a data cable. It is so annoying that there seems to be no way to tell between a standard charging cable and a data cable. I gave up in the end and went for simply disconnecting the cable when needed.
 
-![Mat-Top Cable issue]({{ "assets/images/MatTop/MatTop_Cable.jpg" | relative_url }})
-
 I was worried that when in the laptop configuration, it would be top-heavy and want to fall backwards. This didnt seem to happen. I managed to add the catches in a way that secured the top to the bottom and were also used to keep the two halves closed when in travel mode.
 
-![Mat-Top Lap-top configuration]({{ "assets/images/MatTop/MatTop_4.jpg" | relative_url }})
+![Mat-Top Lap-top configuration]({{ "assets/images/MatTop/MatTop_5.jpg" | relative_url }})
 
 The table top configuration can be used when standing at a table and has the added benefit of not looking like computer if being used in live music performance situation. The keybaord can be removed and used beside this if needed.
 
-![Mat-Top Table top touch screen configuration]({{ "assets/images/MatTop/MatTop_5.jpg" | relative_url }})
+![Mat-Top Table top touch screen configuration]({{ "assets/images/MatTop/MatTop_6.jpg" | relative_url }})
 
 After moving my studio desk contents a bit, I was able to position the top part of the case on a place previously used for housing my push 2 controller. This works great here and provides a touchscreen interface. I am looking forward to developing and using touch controllers in this position.
 
-![Mat-Top Studio configuration]({{ "assets/images/MatTop/MatTop_6.jpg" | relative_url }})
+![Mat-Top Studio configuration]({{ "assets/images/MatTop/MatTop_7.jpg" | relative_url }})
+![Mat-Top Studio configuration]({{ "assets/images/MatTop/MatTop_8.jpg" | relative_url }})
 
 I did move between thinking that I may as well buy buy a laptop which would be smaller and would include a battery. In reality, buying a laptop with the same specs could cost €700-800 so this solution will work for now.
 
