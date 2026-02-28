@@ -1,6 +1,6 @@
 ---
 layout: build
-title: "Mattop: Portable case for Mini PC"
+title: "Mattop: Portable Case for Mini PC"
 date: 2026-02-27
 image: "assets/images/MatTop/MatTop_5.jpg" 
 description: "A re-configuarable, portable case for Mini Pc with integrated touchscreen and keyboard"
@@ -40,5 +40,5 @@ After moving my studio desk contents a bit, I was able to position the top part 
 ![Mat-Top Studio configuration]({{ "assets/images/MatTop/MatTop_7.jpg" | relative_url }})
 ![Mat-Top Studio configuration]({{ "assets/images/MatTop/MatTop_8.jpg" | relative_url }})
 
-I did move between thinking that I may as well buy buy a laptop which would be smaller and would include a battery. In reality, buying a laptop with the same specs could cost €700-800 so this solution will work for now.
+I did think that I may as well have brought a laptop which would be smaller and would include a battery. In reality, buying a laptop with the same specs could cost €700-800 so this solution will work for now.
 
