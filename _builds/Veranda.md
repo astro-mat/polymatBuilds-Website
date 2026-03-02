@@ -16,8 +16,6 @@ My Dad came to help with preparations and it became a nice little Father-son Pro
 
 ![Veranda Design]({{ "assets/images/Veranda/veranda_1.jpg" | relative_url }})
 
-![Veranda Design]({{ "assets/images/Veranda/veranda_2.jpg" | relative_url }})
-
 ![Veranda Design]({{ "assets/images/Veranda/veranda_3.jpg" | relative_url }})
 
 I didn't seem to get any real pictures of the final structure. Here are some from 2026. It needs to be tidied up a bit
