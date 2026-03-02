@@ -2,7 +2,7 @@
 layout: build
 title: "Veranda"
 date: 2022-06-15
-image: "assets/images/Veranda_7.jpg" 
+image: "assets/images/veranda_7.jpg" 
 description: "A lean-to Veranda to Provide an outside covered area"
 category: ["Carpentry"]
 ---
