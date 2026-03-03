@@ -12,7 +12,7 @@ The design process was a long one. I had to learn about acoustics and studio des
 
 There were many questions which took a while to figure out. The space was a very unconventional shape and so didn.t conform to the usual room mode calculators. As such, I made extensive measurements and experimented with many different speaker positions before the final positions were decided upon.
 
-![The space available for a recording studio]({{ "assets/images/StudioBuild/StudioDesign/measurements.jpg" | relative_url }})
+![The space available for a recording studio]({{ "assets/images/StudioBuild/StudioDesign/measurements.JPG" | relative_url }})
 
 There where some decisions that were arrived at early on. The design was drawn up in sketch-up which in itself, took a long time and resulted in a very complex model. I had decided to go with a one room design. All of my recording experience in the past had been done in make-shift spaces and as such, there were never any control rooms or recording booths. I realised that I liked this setup. Being able to lean over and talk to the talent is much better than being in another room and pushing a button to communicate. It would also keep costs down which was a very important consideration.
 
