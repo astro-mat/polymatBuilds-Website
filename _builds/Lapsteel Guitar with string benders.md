@@ -4,7 +4,7 @@ title: "Lapsteel Guitar with Certano String Benders"
 date: 2025-11-01
 image: "assets/images/lapsteelGuitar/lapsteel_4.jpg" 
 description: "A Solidbody, Lap-steel guitar with Certano String benders"
-category: [Instruments, "Carpentry"]
+category: ["Instruments", "Carpentry"]
 ---
 I have always wanted to build a lap-steel guitar and decided to start collecting the parts for one about a year ago. I lost interest a bit an shelved it but came back to it a few months ago.
 
