@@ -32,14 +32,31 @@ After deciding this, I came up with the following design
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_design.jpg" | relative_url }})
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_design_2.jpg" | relative_url }})
 
-The body is a very simple rectangle as it also forms the case. It will be made by sandwiching pieces of 8mm ply together. This will hopefully make it light and strong and simple to make.
+The body is a very simple rectangle as it also forms the case. It will be made by sandwiching pieces of 8mm ply together. This will hopefully make it light and strong and simple to make. The pickups and controls are mounted on plates and can be accessed from the back. This allows electrics to be changed without restringing. 
 
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001.jpg" | relative_url }})
+
+The machinehead arrangement was made by machining angle aluminium. This was difficult to do accurately but worked out quite well. The design was inspired by fender champ lapsteels.
+
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_2.jpg" | relative_url }})
+
+I initially wanted the 2nd neck to use a sustainer circuit. This proved difficult to prototype so I will return to it some other time.
+
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_3.jpg" | relative_url }})
+
+The design worked so well, I decided to move the benders from my previous lapsteel to this one to play around with. I will by another set one day to replace it.
+
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_4.jpg" | relative_url }})
+
+The integrated lid works very well and makes the whole unit very nice to move around.
+
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_5.jpg" | relative_url }})
+
+It works quite well placed on a keyboard stand. It does mean that a pedalboard is difficult to place underneath. I am thinking of perhaps making folding legs that fold into the lid to make it even more integrated. I have two sets of old crutches that would be great for this!
+
 ![Alternating-tread staircase]({{ "assets/images/PrototypeConsoleLapsteelCMT001/CMT001_6.jpg" | relative_url }})
+
+The circuitry was difficult to finalise. The cavity is very small which limited the controls. I included a volume and tone for Neck A with a pickup selector toggle and just a volume for neck B. Only the neck pickup on neck B is working (The 2nd is a dummy). There is a toggle to select the neck. There is also a toggle to select the output which is either both necks are mixed through the same output or each neck goes through a different output which allows it to be processed seperately.
 
 
 
